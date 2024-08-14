@@ -1,0 +1,40 @@
+{
+    "customer1":{
+    "details":{
+        "name":"abc",
+        "phone":12321312,
+        "payment_total":900
+    },
+    "transcation":{
+        "item1":{
+            "price per price":150,
+            "numofitem":3,
+            "totalcost":200
+        },
+        "item2":{
+            "priceperprice":100,
+            "numofitem":3,
+            "totalcost":200
+        }
+    }
+},
+"customer2":{
+    "details":{
+        "name":"abc",
+        "phone":12321312,
+        "payment_total":900
+    },
+    "transcation":{
+        "item1":{
+            "price per price":150,
+            "numofitem":3,
+            "totalcost":200
+        },
+        "item2":{
+            "priceperprice":100,
+            "numofitem":3,
+            "totalcost":200
+        }
+    }
+}
+}

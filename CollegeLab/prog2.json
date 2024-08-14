@@ -1,0 +1,29 @@
+[
+{
+        "name":"Sam",
+        "Payment":{
+            "Total":600
+        },
+        "Transcation":{
+            "Price":400
+        }
+},
+{
+    "name":"Shyam",
+    "Payment":{
+        "Total":900
+    },
+    "Transcation":{
+        "Price":400
+    }
+},
+{
+        "name":"Hari",
+        "Payment":{
+            "Price":900
+        },
+        "Transcation":{
+            "Price":300
+        }
+}
+]
